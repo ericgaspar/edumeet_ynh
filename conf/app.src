@@ -1,7 +1,6 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/edumeet/edumeet/archive/refs/tags/3.4.0.tar.gz
+SOURCE_SUM=807b6c33e0fdc85bd2a9af8085453a38bb508f8b652a36abe245707ce5cc8064
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
 SOURCE_EXTRACT=true
