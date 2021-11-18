@@ -11,8 +11,8 @@
     "upstream": {
         "license": "MIT",
         "website": "https://edumeet.org/",
-        "demo": "https://demo.example.com",
-        "admindoc": "https://yunohost.org/packaging_apps",
+        "demo": "https://letsmeet.no/",
+        "admindoc": "https://edumeet.org/build/",
         "code": "https://github.com/edumeet/edumeet"
     },
     "license": "MIT",
