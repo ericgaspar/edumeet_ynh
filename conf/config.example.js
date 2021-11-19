@@ -107,8 +107,8 @@ module.exports =
 	turnAPIURI    : 'https://example.com/api/turn',
 	turnAPIparams : {
 		'uri_schema' 	: 'turn',
-		'transport' 		: 'tcp',
-		'ip_ver'    		: 'ipv4',
+		'transport' 	: 'tcp',
+		'ip_ver'    	: 'ipv4',
 		'servercount'	: '2'
 	},
 	turnAPITimeout    : 2 * 1000,
